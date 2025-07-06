@@ -21,9 +21,9 @@ The primary source used for this analysis is a CSV file
 - Data cleaning and formatting
 
   ### Exploratory Data Analysis
-  1. what is the gender distribution in the organization?
-  2. Identify gender pay gaps
-  3. Does Palmoria meet the $90,000 minimum wage?
+1. what is the gender distribution in the organization?
+2. Identify gender pay gaps
+3. Does Palmoria meet the $90,000 minimum wage?
 
   ### Data Analysis
   I used Unpivot columns , Custom Column , Merge Queries as New, Replace Values Functions to transform my data

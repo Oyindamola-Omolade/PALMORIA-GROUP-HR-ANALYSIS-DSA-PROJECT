@@ -26,6 +26,16 @@ The primary source used for this analysis is a CSV file
   3. Does Palmora meet the $90,000 minimum wage?
 
   ### Data Analysis
+  I used Unpivot columns , Custom Column , Merge Queries as New Functions to transform my data
+
+  ### Findings
+  - Some employees in the data refused to disclose their gender , Instead of the initial blank spaces i changed all blank gender spaces to N/A
+  - Some employees had no salary because they have left the company , instead of having NULL in my dataset i removed all people that are no longer with the Company from the data.
+  - Some departments also had NULL , i removed all rows that had a NULL department.
+  - I was also given a bonus mapping/rate Excel file to allocate bonuses to all employees based on their performance rating.I calcualted the bonus rate for each employee and the total amount to be paid to each employee plus the bonus .
+  - After allocating bonuses based on their performance ,some employees were not entitled to bonuses due to their poor performance
+  - A new regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000. Palmoria doesn't meet up with this requirement as a lot of employees are earning below $90,000.
+  - Palmoria would have to adjust their minimum salary for all employees to meet the new requirement so they don't face another bad news headline.
   
 
 

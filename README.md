@@ -13,7 +13,7 @@ The primary source used for this analysis is a CSV file
 - Power BI for cleaning and creating visulaization reports
 - Ms. Power point for presentation
 
-###Data Cleaning and Preparation  
+### Data Cleaning and Preparation  
 - Data Loading and inspection
 - Handling missing variables
 - Removing nulls and blanks
